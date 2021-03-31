@@ -1,5 +1,5 @@
 R and Fortran scripts and functions implementing the approach described in the paper
-"A hidden Markov space-time model for mapping world access to food dynamics"
+"A hidden Markov space-time model for mapping of the dynamics of global access to food"
 
 The main script files are:
 
